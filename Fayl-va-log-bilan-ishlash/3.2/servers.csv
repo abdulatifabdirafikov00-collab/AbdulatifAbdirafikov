@@ -1,0 +1,5 @@
+server,status
+server1,ok
+server2,error
+server3,ok
+server4,error
